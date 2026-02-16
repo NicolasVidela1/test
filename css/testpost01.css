@@ -72,6 +72,11 @@ header {
   gap: 25px;
 }
 
+.nav-links {
+  display: flex;
+  gap: 25px;
+}
+
 header a {
   color: #aaaaaa; /* #f2f2f2;*/
   text-decoration: none;
