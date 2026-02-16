@@ -133,8 +133,8 @@ main p {
   /* Inicio Test */
   max-width: 700px;   /* límite de ancho cómodo para lectura */
   /* margin: 0 auto; */     /* lo centra horizontalmente */
-  text-align: center; /* si querés que el texto esté centrado */
-  justify-content: left;
+  text-align: left; /* si querés que el texto esté centrado */
+  justify-content: center;
   /* Fin Test */
 }
 
