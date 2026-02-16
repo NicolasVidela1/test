@@ -90,7 +90,7 @@ header a:hover {
 
 header h3 {
   font-family: "Kingthings Trypewriter", sans-serif;
-  margin: 10px 0 0 0;
+  margin: 20px 0 0 0;
 }
 
 /* === Main Content === */
@@ -132,8 +132,8 @@ main p {
   margin: 20px 0 30px 0;
   /* Inicio Test */
   max-width: 700px;   /* límite de ancho cómodo para lectura */
-  margin: 0 auto;     /* lo centra horizontalmente */
-  text-align: center; /* si querés que el texto esté centrado */
+  /* margin: 0 auto; */     /* lo centra horizontalmente */
+  text-align: left; /* si querés que el texto esté centrado */
   /* Fin Test */
 }
 
