@@ -81,6 +81,10 @@ header a:hover {
   text-decoration: underline;
 }
 
+header h3 {
+  font-family: "Kingthings Trypewriter", sans-serif;
+}
+
 /* === Main Content === */
 
 main {
