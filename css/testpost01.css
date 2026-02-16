@@ -130,6 +130,11 @@ main h6 {
 
 main p {
   margin: 20px 0 30px 0;
+  /* Inicio Test */
+  max-width: 700px;   /* límite de ancho cómodo para lectura */
+  margin: 0 auto;     /* lo centra horizontalmente */
+  text-align: center; /* si querés que el texto esté centrado */
+  /* Fin Test */
 }
 
 /*.avatar {
